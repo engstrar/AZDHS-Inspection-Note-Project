@@ -8,9 +8,9 @@ This project was completed as part of my work as a Health Physicist with the Ari
 
 This is the inspection note templates used by State of Arizona inspectors when auditing facilities that utilize x-rays.
 
-For inspectors, they provide an improved template on which to take notes during inspections. At the bottom of each page is a button for each type of x-ray unit which could be encountered. Clicking on one of the buttons at the bottom of the fourth page will spawn a new page with the corresponding note sheet for that unit type. [Arizona Administrative Code](https://www.azdhs.gov/documents/licensing/radiation-regulatory/rules/rules-aac-9-7.pdf) ("A.C.C.") references are provided for the inspector.
+For inspectors, they provide an improved template on which to take notes during inspections. At the bottom of each page is a button for each type of x-ray unit which could be encountered. Clicking on one of the buttons at the bottom of the fourth page will spawn a new page with the corresponding note sheet for that unit type. [Arizona Administrative Code](https://www.azdhs.gov/documents/licensing/radiation-regulatory/rules/rules-aac-9-7.pdf) ("A.A.C.") references are provided for the inspector.
 
-For facilities, they serve as both an outline of what to expect when a being audited as well as a method to conduct internal audits for maintaining compliance between State inspections. Each item on the template is accompanied by its corresponding A.C.C. regulation, for reference and more information.
+For facilities, they serve as both an outline of what to expect when a being audited as well as a method to conduct internal audits for maintaining compliance between State inspections. Each item on the template is accompanied by its corresponding A.A.C. regulation, for reference and more information.
 
 ---
 
